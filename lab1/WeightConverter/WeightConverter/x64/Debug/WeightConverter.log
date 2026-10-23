@@ -1,0 +1,3 @@
+﻿  WeightConverter.cpp
+C:\Users\grits\source\repos\WeightConverter\WeightConverter\WeightConverter.cpp(127,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  WeightConverter.vcxproj -> C:\Users\grits\source\repos\WeightConverter\x64\Debug\WeightConverter.exe
