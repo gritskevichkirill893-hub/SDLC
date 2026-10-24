@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WeightConverter/WeightConverter.vcxproj" Id="ff8798b9-af4b-4a12-acf8-bde89b834f90" />
+</Solution>
